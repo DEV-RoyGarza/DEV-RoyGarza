@@ -2,7 +2,7 @@
 
 I'm Roy, I blend Full-Stack Engineering with Cybersecurity.
 
-I generally curious about how thing's work, break, fix them and continue learning.
+I'm generally curious about how systems work, break, and how to maintain them while continuously learning.
 
 My main tech stack is HTML, CSS, JavaScript, and Python.
 
